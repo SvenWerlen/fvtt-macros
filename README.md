@@ -4,7 +4,7 @@ A few macros for [Foundry VTT](https://foundryvtt.com/)
 
 * [Update embedded entitites of an actor from Compendium(s)](#update-embedded-entitites-of-an-actor-from-compendiums)
 * [Generate a roll table from a Compendium](#generate-a-roll-table-from-a-compendium)
-* [Overview of all PCs](#overview-of-all-pcs)
+* [Overview of all PCs (PF1)](#overview-of-all-pcs)
 
 ## Update embedded entitites of an actor from Compendium(s)
 
@@ -60,7 +60,7 @@ Script: [generate_rolltable.js](macros/generate_rolltable.js)
 **Use case**: as GM, you often need to know some stats from the PCs. Navigating through the sheets can take time and slow the game.
 
 **How to use**
-* Simpe execute the macro
+* Simply execute the macro (only works with system PF1!)
 
 ![PCs overview](img/pcs_overview.jpeg)
 
